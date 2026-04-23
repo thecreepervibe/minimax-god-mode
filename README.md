@@ -45,7 +45,7 @@ Toggle with `Tab` or click the mode badge in the input box.
 
 | Plan Mode | Builder Mode |
 |:---------:|:------------:|
-| ![Plan Mode](https://raw.githubusercontent.com/ezeoli88/minmax-vscode-extension/main/plan-mode.gif) | ![Builder Mode](https://raw.githubusercontent.com/ezeoli88/minmax-vscode-extension/main/builder-mode.gif) |
+| ![Plan Mode](https://raw.githubusercontent.com/ezeoli88/minmax-vscode-extension/main/plan-mode.gif) | ![Builder Mode](https://minimax-algeng-chat-tts-us.oss-us-east-1.aliyuncs.com/ccv2%2F2026-04-24%2FMiniMax-M2.7-highspeed%2F2043706096878625265%2F50ebf9436f55633f44fc6bcfe91edbaeffa83dec8af20d6cd9edf8ee36528981..jpeg?Expires=1777052690&OSSAccessKeyId=LTAI5tCpJNKCf5EkQHSuL9xg&Signature=Lfro1leZrb%2Fto1m1oY51tAu%2FvVM%3D) |
 
 ---
 
