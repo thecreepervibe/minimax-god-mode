@@ -45,7 +45,7 @@ Toggle with `Tab` or click the mode badge in the input box.
 
 | Plan Mode | Builder Mode |
 |:---------:|:------------:|
-| ![Plan Mode](https://minimax-algeng-chat-tts-us.oss-us-east-1.aliyuncs.com/ccv2%2F2026-04-24%2FMiniMax-M2.7-highspeed%2F2043706096878625265%2Faa5d6ffe243ef5f6a097491e9febe56155e2a953bbb4830df23e74222c6f2eb3..jpeg?Expires=1777052885&OSSAccessKeyId=LTAI5tCpJNKCf5EkQHSuL9xg&Signature=bYA%2FvKksnJrGjrtUnoR7eZmPGhU%3D) | ![Builder Mode](https://minimax-algeng-chat-tts-us.oss-us-east-1.aliyuncs.com/ccv2%2F2026-04-24%2FMiniMax-M2.7-highspeed%2F2043706096878625265%2F50ebf9436f55633f44fc6bcfe91edbaeffa83dec8af20d6cd9edf8ee36528981..jpeg?Expires=1777052690&OSSAccessKeyId=LTAI5tCpJNKCf5EkQHSuL9xg&Signature=Lfro1leZrb%2Fto1m1oY51tAu%2FvVM%3D) |
+| ![Plan Mode](https://minimax-algeng-chat-tts-us.oss-us-east-1.aliyuncs.com/ccv2%2F2026-04-24%2FMiniMax-M2.7-highspeed%2F2043706096878625265%2Faa5d6ffe243ef5f6a097491e9febe56155e2a953bbb4830df23e74222c6f2eb3..jpeg?Expires=1777052885&OSSAccessKeyId=LTAI5tCpJNKCf5EkQHSuL9xg&Signature=bYA%2FvKksnJrGjrtUnoR7eZmPGhU%3D) | ![Builder Mode](https://minimax-algeng-chat-tts-us.oss-us-east-1.aliyuncs.com/ccv2%2F2026-04-24%2FMiniMax-M2.7-highspeed%2F2043706096878625265%2F3e9570866a9c568273487ef5718fbb330b66b609f87f085abead2087ef807f54..jpeg?Expires=1777052913&OSSAccessKeyId=LTAI5tCpJNKCf5EkQHSuL9xg&Signature=gYB23uHxcv%2FF0fLqrXmrU48cyT8%3D) |
 
 ---
 
