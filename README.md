@@ -63,7 +63,7 @@ Extend the agent's capabilities by connecting [Model Context Protocol](https://m
 Search for **MiniMax God Mode** in the VS Code Extensions marketplace, or install the `.vsix` file:
 
 ```
-code --install-extension minmax-vscode-0.1.0.vsix
+code --install-extension minimax-god-mode-0.2.8.vsix
 ```
 
 ### 2. Set your API key
