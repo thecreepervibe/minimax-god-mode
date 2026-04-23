@@ -27,8 +27,9 @@ Unlike Copilot or Cursor that waits for your approval, God Mode in **Builder mod
 | Service | Speed | Cost |
 |---------|-------|------|
 | **MiniMax-M2.7-highspeed** | ~100 tok/s | **~$0.01 / 1M tokens** |
-| GPT-4o | ~60 tok/s | ~$15 / 1M tokens |
-| Claude 3.5 Sonnet | ~60 tok/s | ~$12 / 1M tokens |
+| GPT-5.3 | ~80 tok/s | ~$15 / 1M tokens |
+| Claude Opus 4.6 | ~80 tok/s | ~$12 / 1M tokens |
+| OpenAI Codex | ~60 tok/s | ~$10 / 1M tokens |
 
 MiniMax is **~1000x cheaper** than GPT-4o with comparable coding capability. For an autonomous agent that makes dozens of API calls per task, this isn't a small improvement — it's a complete paradigm shift.
 
