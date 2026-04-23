@@ -60,7 +60,7 @@ Extend the agent's capabilities by connecting [Model Context Protocol](https://m
 
 ### 1. Install
 
-Search for **MiniMax AI Assistant** in the VS Code Extensions marketplace, or install the `.vsix` file:
+Search for **MiniMax God Mode** in the VS Code Extensions marketplace, or install the `.vsix` file:
 
 ```
 code --install-extension minmax-vscode-0.1.0.vsix
