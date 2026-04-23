@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img width="100%" alt="MiniMax God Mode" src="https://minimax-algeng-chat-tts-us.oss-us-east-1.aliyuncs.com/ccv2%2F2026-04-24%2FMiniMax-M2.7-highspeed%2F2043706096878625265%2F78d4311e51b7454aea54ff075dc474036330a9c0c33646cc3beb32135389afb4..jpeg?Expires=1777053620&OSSAccessKeyId=LTAI5tCpJNKCf5EkQHSuL9xg&Signature=RgNYwF5fdNg9JxiYu4Zaih8yKvg%3D" style="object-fit: contain;" />
+  <img width="100%" alt="MiniMax God Mode" src="https://raw.githubusercontent.com/thecreepervibe/minimax-god-mode/main/resources/minimax.gif" style="object-fit: contain;" />
 </p>
 
 ---
